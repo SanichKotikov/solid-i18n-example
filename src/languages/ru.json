@@ -1,0 +1,7 @@
+{
+  "Read the <link>documentation</link> for more info.": "Для получения дополнительной информации ознакомьтесь с <link>документацией</link>.",
+  "Selected {count, plural, =0 {zero items} one {single item} other {{count} items}}.": "Выбрано {count, plural, =0 {ноль наименований} one {одно наименование} other {{count} наименований}}.",
+  "Selected date: {datetime, date, default}": "Выбранная дата: {datetime, date, default}",
+  "Selected date: {datetime, date, full}": "Выбранная дата: {datetime, date, full}",
+  "Selected date: {datetime, date, simple}": "Выбранная дата: {datetime, date, simple}"
+}

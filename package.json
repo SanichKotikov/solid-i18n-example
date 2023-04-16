@@ -6,11 +6,13 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Sanich Kotikov <sancho@cdrpro.ru> (https://sanichkotikov.github.io)",
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "5.0.0",
     "typescript": "4.9.5",
     "vite": "4.2.1",
     "vite-plugin-solid": "2.7.0"
